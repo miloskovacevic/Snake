@@ -26,7 +26,7 @@ namespace Snake
 
         public Settings()
         {
-            Width = 15;
+            Width = 16;
             Height = 16;
             Speed = 16;
             Score = 0;
